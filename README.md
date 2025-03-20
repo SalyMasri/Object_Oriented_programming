@@ -43,4 +43,3 @@ Designed and implemented a **doubly linked list** from scratch to manage **dynam
 - **Applied object-oriented principles for reusable and maintainable code**
 - **Verified program correctness with structured testing**
 
-For improvements or contributions, feel free to **open an issue** or **submit a pull request**.
